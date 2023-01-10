@@ -1,2 +1,4 @@
 # browser
-create webbrowser using PyQt5 
+create webbrowser using python with modules PyQt5, etc.
+
+using python 3
